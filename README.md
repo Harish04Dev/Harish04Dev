@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Harish
-- 👀 I’m interested in New tech software's
+- 👀 I’m interested in Coding
 - 🌱 I’m currently learning Web Dev
 - 📫 How to reach me @harishhacks01@gmail.com
 
